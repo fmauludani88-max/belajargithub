@@ -1,0 +1,5 @@
+rencana untuk pembuatan proyek 
+-JS
+-PHP
+-TAILWIND
+-BOOTSTRAP
